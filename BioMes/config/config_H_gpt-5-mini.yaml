@@ -1,0 +1,14 @@
+llm:
+  model_provider: "openai"
+  model: "gpt-5-mini"
+  api_key: ""
+  base_url: ""
+
+max_concurrency: 24
+
+max_retries: 9
+
+query_type: "H"
+
+max_critique_iterations: 2
+
